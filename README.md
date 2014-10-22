@@ -76,3 +76,8 @@ awesome-stars
 [pomelo](https://github.com/NetEase/pomelo) | 网易出品，node游戏服务框架 | null
 
 
+## other-awesome-lists
+
+名称 | 用途 | 备注
+-----|------|-----
+[http2](https://github.com/fex-team/http2-spec/blob/master/HTTP2%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7%E7%89%88(06-29).md) | http2中文版 | ..
