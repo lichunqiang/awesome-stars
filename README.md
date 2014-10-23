@@ -53,7 +53,8 @@ awesome-stars
 [intro.js](https://github.com/usablica/intro.js) | 新手介绍库 | null
 [moment](https://github.com/moment/moment) | 处理时间的库 | null
 [store.js](https://github.com/marcuswestin/store.js) | 本地存储库 | 有兼容性
-
+[Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | css实现图标 | 纯css实现哦
+[angular-route-styles](https://github.com/tennisgent/angular-route-styles) | 利用AngularJS的$routeProvider 注入css | 构建spa有用
 
 ## NodeJS
 
