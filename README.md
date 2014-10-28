@@ -8,7 +8,7 @@ awesome-stars
     - [Javascript](#javascript)
     - [NodeJS](#nodejs)
     - [css](#css)
-    - [Android](#Android)
+    - [Android](#android)
 - [其他](#other-awesome-lists)
 
 ## PHP
