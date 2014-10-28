@@ -7,6 +7,8 @@ awesome-stars
     - [PHP](#php)
     - [Javascript](#javascript)
     - [NodeJS](#nodejs)
+    - [css](#css)
+    - [Android](#Android)
 - [其他](#other-awesome-lists)
 
 ## PHP
@@ -55,6 +57,15 @@ awesome-stars
 [store.js](https://github.com/marcuswestin/store.js) | 本地存储库 | 有兼容性
 [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | css实现图标 | 纯css实现哦
 [angular-route-styles](https://github.com/tennisgent/angular-route-styles) | 利用AngularJS的$routeProvider 注入css | 构建spa有用
+[three.js](https://github.com/mrdoob/three.js) | javascript实现的3D库 | 游戏有用处
+[ui-router-extras](https://github.com/christopherthielen/ui-router-extras) | 嗯，AngularJS的一个路由库 | 待了解
+
+## css
+
+名称 | 用途 | 备注
+-----|------|-----
+[colors](https://github.com/mrmrs/colors) | 页面颜色 | 提供更加好的页面配色方案
+[quickLayout](https://github.com/zhangxinxu/quickLayout) | 一个快速开发的css框架 | 适合纯前端人员来使用
 
 ## NodeJS
 
@@ -75,6 +86,13 @@ awesome-stars
 [totoro](https://github.com/totorojs/totoro) |　简单稳定的跨浏览器测试工具 |　支付宝出品
 [algorithms](https://github.com/felipernb/algorithms.js) | js算法 | 可以学习算法
 [pomelo](https://github.com/NetEase/pomelo) | 网易出品，node游戏服务框架 | null
+
+## Android
+
+名称 | 用途 | 备注
+-----|------|-----
+[QuickNews](https://github.com/tigerguixh/QuickNews) | 新闻类的开源app | 模仿的是网易新闻客户端
+[ZhihuPaper](https://github.com/cundong/ZhihuPaper) | 知乎日志客户端 | [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) 另外的一个
 
 
 ## other-awesome-lists
