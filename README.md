@@ -6,6 +6,7 @@ awesome-stars
 - [总览](#awesome-stars)
     - [PHP](#php)
     - [Javascript](#javascript)
+    - [AngularJS](#angularjs)
     - [NodeJS](#nodejs)
     - [css](#css)
     - [Android](#android)
@@ -21,17 +22,20 @@ awesome-stars
 * [Stringy](https://github.com/danielstjules/Stringy) - 处理字符串的库
 * [guzzle](https://github.com/guzzle/guzzle) - 处理请求的,模拟登陆啊什么的可以用
 * [pinyin](https://github.com/overtrue/pinyin) - 汉子转拼音库
+* [distill](https://github.com/raulfraile/distill) - PHP实现的tar等压缩文件的解压库
+* [oauth2-server](https://github.com/thephpleague/oauth2-server) - oauth2的PHP实现
+* [php-whois](https://github.com/regru/php-whois) - whois查询库
+* [lock](https://github.com/BeatSwitch/lock) - acl库
+
+<hr >
+
+* [esoTalk](https://github.com/esotalk/esoTalk) - 及简单的论坛
 
 ## Javascript
 
-
-* [sweetalert](https://github.com/t4t5/sweetalert) - 默认alert的替代品,效果非常不错，stars数蹭蹭的
-* [bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert) - sweetalert的bootstrap版,这下不用担心怎么bootstrap版本的了
 * [perfmap](https://github.com/zeman/perfmap) - 前端新能热力图,嵌入页面能够展示各个部分的性能相关信息
 * [ionic](https://github.com/driftyco/ionic) - 牛逼的HTML5移动应用框架,结合了AngularJS哦，各个方面都比较系统
-* [ng-nice](https://github.com/angular-cn/ng-nice) - 中国人学习Angular的地方,这下妈妈再也不用担心我的英语不过关了
 * [jquery-pjax](https://github.com/defunkt/jquery-pjax) - 不用说github现在就用这个,无
-* [angular-strap](https://github.com/mgcrea/angular-strap) - 对bootstrap进行了angular指令封装,嗯！可以方便的使用angularJS和bootstrap咯
 * [mui](https://github.com/dcloudio/mui) - javascript开发app有木有！,值得学习使用
 * [ml](https://github.com/amfe/ml) - 一个无线前端库
 * [cal-heatmap](https://github.com/kamisama/cal-heatmap) - 还记得github个人主页那个点点的图吗
@@ -53,14 +57,28 @@ awesome-stars
 * [moment](https://github.com/moment/moment) - 处理时间的库
 * [store.js](https://github.com/marcuswestin/store.js) - 本地存储库,有兼容性
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - css实现图标,纯css实现哦
-* [angular-route-styles](https://github.com/tennisgent/angular-route-styles) - 利用AngularJS的$routeProvider 注入css ,构建spa有用
 * [three.js](https://github.com/mrdoob/three.js) - javascript实现的3D库,游戏有用处
+* [basil.js](https://github.com/Wisembly/basil.js) - 统一管理localstorage,cookie和session的js库
+
+## AngularJS
+
+* [angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+* [angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns)
+* [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+* [angular-route-styles](https://github.com/tennisgent/angular-route-styles) - 利用AngularJS的$routeProvider 注入css ,构建spa有用
 * [ui-router-extras](https://github.com/christopherthielen/ui-router-extras) - 嗯，AngularJS的一个路由库
+* [angular-strap](https://github.com/mgcrea/angular-strap) - 对bootstrap进行了angular指令封装,嗯！可以方便的使用angularJS和bootstrap咯
+* [ng-nice](https://github.com/angular-cn/ng-nice) - 中国人学习Angular的地方,这下妈妈再也不用担心我的英语不过关了
 
 ## css
 
 * [colors](https://github.com/mrmrs/colors) - 页面颜色,提供更加好的页面配色方案
 * [quickLayout](https://github.com/zhangxinxu/quickLayout) - 一个快速开发的css框架,适合纯前端人员来使用
+* [dashboards](https://github.com/keen/dashboards) - 基于boostrap的dashboard
+* [templates](https://github.com/sendwithus/templates) - 邮件模板样式不错
+* [sweetalert](https://github.com/t4t5/sweetalert) - 默认alert的替代品,效果非常不错，stars数蹭蹭的
+* [bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert) - sweetalert的bootstrap版,这下不用担心怎么bootstrap版本的了
+
 
 ## NodeJS
 
@@ -76,7 +94,7 @@ awesome-stars
 * [torrent](https://github.com/maxogden/torrent) - cli上下载种子
 * [sequelize](https://github.com/sequelize/sequelize) - node orm
 * [nodePPT](https://github.com/ksky521/nodePPT) - 用node做ppt
-* [totoro](https://github.com/totorojs/totoro) |　简单稳定的跨浏览器测试工具
+* [totoro](https://github.com/totorojs/totoro) - 简单稳定的跨浏览器测试工具
 * [algorithms](https://github.com/felipernb/algorithms.js) - js算法,可以学习算法
 * [pomelo](https://github.com/NetEase/pomelo) - 网易出品，node游戏服务框架
 
@@ -90,3 +108,4 @@ awesome-stars
 ## other-awesome-lists
 
 * [http2](https://github.com/fex-team/http2-spec/blob/master/HTTP2%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7%E7%89%88(06-29).md) - http2中文版
+* [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 如何通过开源项目进行学习
