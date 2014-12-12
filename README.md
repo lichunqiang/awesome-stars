@@ -59,6 +59,9 @@ awesome-stars
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - css实现图标,纯css实现哦
 * [three.js](https://github.com/mrdoob/three.js) - javascript实现的3D库,游戏有用处
 * [basil.js](https://github.com/Wisembly/basil.js) - 统一管理localstorage,cookie和session的js库
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 进度条(svg)
+* [maskjs](https://github.com/bguzmanrio/maskjs) - 控制输入框的输入 [related](https://github.com/RobinHerbots/jquery.inputmask)
+* [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - 遵循google的material design guideline的bootstrap样式
 
 ## AngularJS
 
