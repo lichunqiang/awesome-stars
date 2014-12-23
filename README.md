@@ -27,6 +27,7 @@ awesome-stars
 * [php-whois](https://github.com/regru/php-whois) - whois查询库
 * [lock](https://github.com/BeatSwitch/lock) - acl库
 * [embed](https://github.com/oscarotero/Embed) - 获取网站信息的库
+* [deployer](https://github.com/elfet/deployer) - 用PHP实现的部署工具
 
 <hr >
 
@@ -65,6 +66,11 @@ awesome-stars
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - 遵循google的material design guideline的bootstrap样式
 * [focusable](https://github.com/zzarcon/focusable) - 使页面某部分照射在聚光灯下
 * [handsontable](https://github.com/handsontable/handsontable) - 像编辑Excel表格一样编辑页面表格
+* [holder](https://github.com/imsky/holder) - 在客户端生成占位图片的库
+* [cropper](https://github.com/fengyuanchen/cropper) - 图片剪裁插件
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 用于实现整页效果，做产品介绍页不错
+* [x-editable](https://github.com/vitalets/x-editable) - 实现页面元素可编辑
+
 
 ## AngularJS
 
@@ -85,6 +91,10 @@ awesome-stars
 * [templates](https://github.com/sendwithus/templates) - 邮件模板样式不错
 * [sweetalert](https://github.com/t4t5/sweetalert) - 默认alert的替代品,效果非常不错，stars数蹭蹭的
 * [bootstrap-sweetalert](https://github.com/lipis/bootstrap-sweetalert) - sweetalert的bootstrap版,这下不用担心怎么bootstrap版本的了
+* [flakes](https://github.com/kumailht/flakes) - 管理后台模板
+* [inputs](https://github.com/anjlab/inputs) - 输入控件样式增强
+* [easings.net](https://github.com/ai/easings.net) - 对于各种动画效果的解释
+* [bootswatch](https://github.com/thomaspark/bootswatch) - 收集了一些免费的bootstrap模板
 
 
 ## NodeJS
