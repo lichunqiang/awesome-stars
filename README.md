@@ -26,6 +26,7 @@ awesome-stars
 * [oauth2-server](https://github.com/thephpleague/oauth2-server) - oauth2的PHP实现
 * [php-whois](https://github.com/regru/php-whois) - whois查询库
 * [lock](https://github.com/BeatSwitch/lock) - acl库
+* [embed](https://github.com/oscarotero/Embed) - 获取网站信息的库
 
 <hr >
 
@@ -62,6 +63,8 @@ awesome-stars
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 进度条(svg)
 * [maskjs](https://github.com/bguzmanrio/maskjs) - 控制输入框的输入 [related](https://github.com/RobinHerbots/jquery.inputmask)
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - 遵循google的material design guideline的bootstrap样式
+* [focusable](https://github.com/zzarcon/focusable) - 使页面某部分照射在聚光灯下
+* [handsontable](https://github.com/handsontable/handsontable) - 像编辑Excel表格一样编辑页面表格
 
 ## AngularJS
 
@@ -72,6 +75,7 @@ awesome-stars
 * [ui-router-extras](https://github.com/christopherthielen/ui-router-extras) - 嗯，AngularJS的一个路由库
 * [angular-strap](https://github.com/mgcrea/angular-strap) - 对bootstrap进行了angular指令封装,嗯！可以方便的使用angularJS和bootstrap咯
 * [ng-nice](https://github.com/angular-cn/ng-nice) - 中国人学习Angular的地方,这下妈妈再也不用担心我的英语不过关了
+* [mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) - angular+bootstrap3实现的手机端UI
 
 ## css
 
