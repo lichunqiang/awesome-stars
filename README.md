@@ -28,6 +28,7 @@ awesome-stars
 * [lock](https://github.com/BeatSwitch/lock) - acl库
 * [embed](https://github.com/oscarotero/Embed) - 获取网站信息的库
 * [deployer](https://github.com/elfet/deployer) - 用PHP实现的部署工具
+* [Identicon](https://github.com/yzalis/Identicon) - 生成随机头像
 
 <hr >
 
@@ -70,6 +71,7 @@ awesome-stars
 * [cropper](https://github.com/fengyuanchen/cropper) - 图片剪裁插件
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 用于实现整页效果，做产品介绍页不错
 * [x-editable](https://github.com/vitalets/x-editable) - 实现页面元素可编辑
+* [sortable](https://github.com/RubaXa/Sortable) - 实现页面元素可拖拽(no jquery)
 
 
 ## AngularJS
