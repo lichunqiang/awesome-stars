@@ -29,6 +29,8 @@ awesome-stars
 * [embed](https://github.com/oscarotero/Embed) - 获取网站信息的库
 * [deployer](https://github.com/elfet/deployer) - 用PHP实现的部署工具
 * [Identicon](https://github.com/yzalis/Identicon) - 生成随机头像
+* [countries](https://github.com/mledoze/countries) - 世界国家数据
+* [php-curl-class](https://github.com/php-curl-class/php-curl-class) - CURL面向对象的封装
 
 <hr >
 
@@ -72,6 +74,7 @@ awesome-stars
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 用于实现整页效果，做产品介绍页不错
 * [x-editable](https://github.com/vitalets/x-editable) - 实现页面元素可编辑
 * [sortable](https://github.com/RubaXa/Sortable) - 实现页面元素可拖拽(no jquery)
+* [pnotify](https://github.com/sciactive/pnotify) - 综合提示、modal、tooltip功能的强大插件
 
 
 ## AngularJS
@@ -97,6 +100,7 @@ awesome-stars
 * [inputs](https://github.com/anjlab/inputs) - 输入控件样式增强
 * [easings.net](https://github.com/ai/easings.net) - 对于各种动画效果的解释
 * [bootswatch](https://github.com/thomaspark/bootswatch) - 收集了一些免费的bootstrap模板
+* [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 收集了一些jekyll的模板
 
 
 ## NodeJS
