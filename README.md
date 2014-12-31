@@ -101,6 +101,8 @@ awesome-stars
 * [easings.net](https://github.com/ai/easings.net) - 对于各种动画效果的解释
 * [bootswatch](https://github.com/thomaspark/bootswatch) - 收集了一些免费的bootstrap模板
 * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 收集了一些jekyll的模板
+* [ratchet](https://github.com/twbs/ratchet) - 使用简洁的HTML、css和js组件构建手机应用
+* [bootstrap-switch](https://github.com/nostalgiaz/bootstrap-switch) - 基于bootstrap实现的滑块
 
 
 ## NodeJS
@@ -134,3 +136,4 @@ awesome-stars
 * [http2](https://github.com/fex-team/http2-spec/blob/master/HTTP2%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7%E7%89%88(06-29).md) - http2中文版
 * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 如何通过开源项目进行学习
 * [RFC6749.zh-cn](https://github.com/jeansfish/RFC6749.zh-cn) - 对oauth2.0的中文译文
+* [php-the-right-way](http://wulijun.github.io/php-the-right-way) - php-the-right-way中文版
