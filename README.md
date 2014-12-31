@@ -120,6 +120,7 @@ awesome-stars
 * [totoro](https://github.com/totorojs/totoro) - 简单稳定的跨浏览器测试工具
 * [algorithms](https://github.com/felipernb/algorithms.js) - js算法,可以学习算法
 * [pomelo](https://github.com/NetEase/pomelo) - 网易出品，node游戏服务框架
+* [hexo](https://github.com/hexojs/hexo) - 博客框架[coney](https://github.com/coneycode/coney)
 
 ## Android
 
