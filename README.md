@@ -138,3 +138,4 @@ awesome-stars
 * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 如何通过开源项目进行学习
 * [RFC6749.zh-cn](https://github.com/jeansfish/RFC6749.zh-cn) - 对oauth2.0的中文译文
 * [php-the-right-way](http://wulijun.github.io/php-the-right-way) - php-the-right-way中文版
+* [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - js实现各种的算法
