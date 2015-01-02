@@ -76,6 +76,7 @@ awesome-stars
 * [sortable](https://github.com/RubaXa/Sortable) - 实现页面元素可拖拽(no jquery)
 * [pnotify](https://github.com/sciactive/pnotify) - 综合提示、modal、tooltip功能的强大插件
 * [emojify.js](https://github.com/hassankhan/emojify.js) - 表情插件
+* [snabbt.js](https://github.com/daniel-lundin/snabbt.js) -  js和css实现的动画库
 
 
 ## AngularJS
