@@ -75,6 +75,7 @@ awesome-stars
 * [x-editable](https://github.com/vitalets/x-editable) - 实现页面元素可编辑
 * [sortable](https://github.com/RubaXa/Sortable) - 实现页面元素可拖拽(no jquery)
 * [pnotify](https://github.com/sciactive/pnotify) - 综合提示、modal、tooltip功能的强大插件
+* [emojify.js](https://github.com/hassankhan/emojify.js) - 表情插件
 
 
 ## AngularJS
