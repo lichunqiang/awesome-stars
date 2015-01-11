@@ -31,6 +31,9 @@ awesome-stars
 * [Identicon](https://github.com/yzalis/Identicon) - 生成随机头像
 * [countries](https://github.com/mledoze/countries) - 世界国家数据
 * [php-curl-class](https://github.com/php-curl-class/php-curl-class) - CURL面向对象的封装
+* [Validation](https://github.com/Respect/Validation) - 验证库
+* [glide](https://github.com/thephpleague/glide) - 通过URL的形式操作图片
+* [url](https://github.com/thephpleague/url) - 操作URL的库
 
 <hr >
 
@@ -140,3 +143,4 @@ awesome-stars
 * [RFC6749.zh-cn](https://github.com/jeansfish/RFC6749.zh-cn) - 对oauth2.0的中文译文
 * [php-the-right-way](http://wulijun.github.io/php-the-right-way) - php-the-right-way中文版
 * [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - js实现各种的算法
+* [es6features](https://github.com/lukehoban/es6features) - 介绍了es6的新特性
