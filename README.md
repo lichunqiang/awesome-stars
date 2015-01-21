@@ -34,6 +34,7 @@ awesome-stars
 * [Validation](https://github.com/Respect/Validation) - 验证库
 * [glide](https://github.com/thephpleague/glide) - 通过URL的形式操作图片
 * [url](https://github.com/thephpleague/url) - 操作URL的库
+* [countries](https://github.com/mledoze/countries) - 全球国家数据
 
 <hr >
 
@@ -144,3 +145,8 @@ awesome-stars
 * [php-the-right-way](http://wulijun.github.io/php-the-right-way) - php-the-right-way中文版
 * [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - js实现各种的算法
 * [es6features](https://github.com/lukehoban/es6features) - 介绍了es6的新特性
+
+
+## algorithm
+
+* [alpha-sort](https://github.com/sindresorhus/alpha-sort)
