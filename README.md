@@ -81,6 +81,7 @@ awesome-stars
 * [pnotify](https://github.com/sciactive/pnotify) - 综合提示、modal、tooltip功能的强大插件
 * [emojify.js](https://github.com/hassankhan/emojify.js) - 表情插件
 * [snabbt.js](https://github.com/daniel-lundin/snabbt.js) -  js和css实现的动画库
+* [TheaterJS](https://github.com/Zhouzi/TheaterJS) - 在网页模拟打字效果
 
 
 ## AngularJS
