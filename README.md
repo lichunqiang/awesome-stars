@@ -150,3 +150,6 @@ awesome-stars
 ## algorithm
 
 * [alpha-sort](https://github.com/sindresorhus/alpha-sort)
+* [mergesort](https://github.com/stoeffel/mergesort)
+* [bubblesort](https://github.com/addyosmani/bubblesort)
+* [recursive-binarysearch](https://github.com/addyosmani/recursive-binarysearch)
