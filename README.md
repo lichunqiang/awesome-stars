@@ -35,6 +35,8 @@ awesome-stars
 * [glide](https://github.com/thephpleague/glide) - 通过URL的形式操作图片
 * [url](https://github.com/thephpleague/url) - 操作URL的库
 * [countries](https://github.com/mledoze/countries) - 全球国家数据
+* [clearPHP](https://github.com/dseguy/clearPHP) - 编写清晰PHP代码的参考
+* [underscore-php](https://github.com/Anahkiasen/underscore-php)
 
 <hr >
 
