@@ -160,3 +160,4 @@ awesome-stars
 ## tech
 
 * [understanding-csrf](https://github.com/pillarjs/understanding-csrf)
+* [nginx-conf](https://github.com/lebinh/nginx-conf)
