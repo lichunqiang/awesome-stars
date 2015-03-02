@@ -156,3 +156,7 @@ awesome-stars
 * [mergesort](https://github.com/stoeffel/mergesort)
 * [bubblesort](https://github.com/addyosmani/bubblesort)
 * [recursive-binarysearch](https://github.com/addyosmani/recursive-binarysearch)
+
+## tech
+
+* [understanding-csrf](https://github.com/pillarjs/understanding-csrf)
