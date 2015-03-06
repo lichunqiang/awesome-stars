@@ -96,6 +96,9 @@ awesome-stars
 * [angular-strap](https://github.com/mgcrea/angular-strap) - 对bootstrap进行了angular指令封装,嗯！可以方便的使用angularJS和bootstrap咯
 * [ng-nice](https://github.com/angular-cn/ng-nice) - 中国人学习Angular的地方,这下妈妈再也不用担心我的英语不过关了
 * [mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) - angular+bootstrap3实现的手机端UI
+* [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
+* [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - by toddmotto
+
 
 ## css
 
