@@ -116,6 +116,7 @@ awesome-stars
 * [ratchet](https://github.com/twbs/ratchet) - 使用简洁的HTML、css和js组件构建手机应用
 * [bootstrap-switch](https://github.com/nostalgiaz/bootstrap-switch) - 基于bootstrap实现的滑块
 * [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Bootstrap模板
+* [tips](https://github.com/jh3y/tips) - 纯css实现的tooltip
 
 
 ## NodeJS
