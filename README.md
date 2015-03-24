@@ -84,7 +84,7 @@ awesome-stars
 * [emojify.js](https://github.com/hassankhan/emojify.js) - 表情插件
 * [snabbt.js](https://github.com/daniel-lundin/snabbt.js) -  js和css实现的动画库
 * [TheaterJS](https://github.com/Zhouzi/TheaterJS) - 在网页模拟打字效果
-
+* [payform](https://github.com/jondavidjohn/payform) - 银行卡、信用卡叫校验组件
 
 ## AngularJS
 
