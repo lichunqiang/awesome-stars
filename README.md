@@ -56,7 +56,8 @@ awesome-stars
 * [intense-images](https://github.com/tholman/intense-images) - 全屏看图片,[看例子不错啊](http://tholman.com/intense-images/)
 * [async](https://github.com/caolan/async) - 异步异步异步,node和broser通吃
 * [keyboardJS](https://github.com/RobertWHurst/KeyboardJS) - 一个封装键盘事件的库
-* [WeixinApi](https://github.com/zxlie/WeixinApi) - 对微信浏览器中的各个事件的封装,微信开发必备
+* [WeixinApi](https://github.com/zxlie/WeixinApi) - 对微信浏览器中的各个事件的封装,微信开发必备（新版本微信不可用）
+* [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html)
 * [app](https://github.com/kikinteractive/app) - 瞬间建立一个手机web应用
 * [string.js](https://github.com/jprichardson/string.js) - 操作字符串的扩展库
 * [Pro](https://github.com/AlloyTeam/Pro) - 腾讯移动Web前端框架
