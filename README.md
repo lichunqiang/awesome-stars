@@ -45,6 +45,13 @@ awesome-stars
 
 ## Javascript
 
+
+
+* [intense-images](https://github.com/tholman/intense-images) - 全屏看图片,[看例子不错啊](http://tholman.com/intense-images/)
+* [swipebox](https://github.com/brutaldesign/swipebox) - 一个图片集展示库
+* [holder](https://github.com/imsky/holder) - 客户端生成占位图片库
+* [dummyimage](http://dummyimage.com/) - 在线生成占位图片库
+* [cropper](https://github.com/fengyuanchen/cropper) - 图片剪裁插件
 * [perfmap](https://github.com/zeman/perfmap) - 前端新能热力图,嵌入页面能够展示各个部分的性能相关信息
 * [ionic](https://github.com/driftyco/ionic) - 牛逼的HTML5移动应用框架,结合了AngularJS哦，各个方面都比较系统
 * [jquery-pjax](https://github.com/defunkt/jquery-pjax) - 不用说github现在就用这个,无
@@ -53,10 +60,10 @@ awesome-stars
 * [cal-heatmap](https://github.com/kamisama/cal-heatmap) - 还记得github个人主页那个点点的图吗
 * [amazeui](https://github.com/allmobilize/amazeui) - 号称中国首个开源 HTML5 跨屏前端框架
 * [touchjs](https://github.com/Clouda-team/touchjs) - 模拟各种手势的,百度出品
-* [intense-images](https://github.com/tholman/intense-images) - 全屏看图片,[看例子不错啊](http://tholman.com/intense-images/)
 * [async](https://github.com/caolan/async) - 异步异步异步,node和broser通吃
 * [keyboardJS](https://github.com/RobertWHurst/KeyboardJS) - 一个封装键盘事件的库
-* [WeixinApi](https://github.com/zxlie/WeixinApi) - 对微信浏览器中的各个事件的封装,微信开发必备
+* [WeixinApi](https://github.com/zxlie/WeixinApi) - 对微信浏览器中的各个事件的封装,微信开发必备（新版本微信不可用）
+* [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html) - 全新的微信事件调用方式
 * [app](https://github.com/kikinteractive/app) - 瞬间建立一个手机web应用
 * [string.js](https://github.com/jprichardson/string.js) - 操作字符串的扩展库
 * [Pro](https://github.com/AlloyTeam/Pro) - 腾讯移动Web前端框架
@@ -64,7 +71,6 @@ awesome-stars
 * [hammer.js](https://github.com/hammerjs/hammer.js) - 多点触控
 * [iOS-Overlay](https://github.com/taitems/iOS-Overlay) - IOS样式的加载,不过作者不怎更新了
 * [jquery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 这个很牛
-* [swipebox](https://github.com/brutaldesign/swipebox) - 一个图片集展示库
 * [intro.js](https://github.com/usablica/intro.js) - 新手介绍库
 * [moment](https://github.com/moment/moment) - 处理时间的库
 * [store.js](https://github.com/marcuswestin/store.js) - 本地存储库,有兼容性
@@ -76,8 +82,6 @@ awesome-stars
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - 遵循google的material design guideline的bootstrap样式
 * [focusable](https://github.com/zzarcon/focusable) - 使页面某部分照射在聚光灯下
 * [handsontable](https://github.com/handsontable/handsontable) - 像编辑Excel表格一样编辑页面表格
-* [holder](https://github.com/imsky/holder) - 在客户端生成占位图片的库
-* [cropper](https://github.com/fengyuanchen/cropper) - 图片剪裁插件
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 用于实现整页效果，做产品介绍页不错
 * [x-editable](https://github.com/vitalets/x-editable) - 实现页面元素可编辑
 * [sortable](https://github.com/RubaXa/Sortable) - 实现页面元素可拖拽(no jquery)
@@ -86,6 +90,7 @@ awesome-stars
 * [snabbt.js](https://github.com/daniel-lundin/snabbt.js) -  js和css实现的动画库
 * [TheaterJS](https://github.com/Zhouzi/TheaterJS) - 在网页模拟打字效果
 * [payform](https://github.com/jondavidjohn/payform) - 银行卡、信用卡叫校验组件
+* [tmodjs](https://github.com/aui/tmodjs) - 前端模板外置解决方案
 
 ## AngularJS
 
