@@ -91,6 +91,7 @@ awesome-stars
 * [TheaterJS](https://github.com/Zhouzi/TheaterJS) - 在网页模拟打字效果
 * [payform](https://github.com/jondavidjohn/payform) - 银行卡、信用卡叫校验组件
 * [tmodjs](https://github.com/aui/tmodjs) - 前端模板外置解决方案
+* [storage](https://github.com/luics/storage) - 跨终端跨域的存储方案
 
 ## AngularJS
 
