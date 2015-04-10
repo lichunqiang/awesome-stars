@@ -124,6 +124,7 @@ awesome-stars
 * [bootstrap-switch](https://github.com/nostalgiaz/bootstrap-switch) - 基于bootstrap实现的滑块
 * [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Bootstrap模板
 * [tips](https://github.com/jh3y/tips) - 纯css实现的tooltip
+* [bootstrap-ie7](https://github.com/coliff/bootstrap-ie7) - bootstrap 3 兼容ie7
 
 
 ## NodeJS
