@@ -9,6 +9,7 @@ reactjs resource
 
 ## 实例
 
+* [react-demos](https://github.com/ruanyf/react-demos)
 * [ReactNativeNews](https://github.com/tabalt/ReactNativeNews)
 
 
