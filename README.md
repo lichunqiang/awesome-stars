@@ -92,6 +92,7 @@ awesome-stars
 * [payform](https://github.com/jondavidjohn/payform) - 银行卡、信用卡叫校验组件
 * [tmodjs](https://github.com/aui/tmodjs) - 前端模板外置解决方案
 * [storage](https://github.com/luics/storage) - 跨终端跨域的存储方案
+* [dragula](https://github.com/bevacqua/dragula) - 支持ie7+的 drag & drop 库
 
 ## AngularJS
 
