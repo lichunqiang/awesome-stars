@@ -130,8 +130,6 @@ awesome-stars
 
 ## NodeJS
 
-> 罪过，我把它从javascript那独立出来了，主要是太多啦。。
-
 * [sails](https://github.com/balderdashy/sails) - 实时MVC的nodejs框架,这是个框架
 * [update-notifier](https://github.com/yeoman/update-notifier) - 开发的node cli版本更新提示工具
 * [tin](https://github.com/jprichardson/tin) - 一个管理package.json,bower.json,componnets.json的工具
@@ -162,7 +160,7 @@ awesome-stars
 * [php-the-right-way](http://wulijun.github.io/php-the-right-way) - php-the-right-way中文版
 * [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - js实现各种的算法
 * [es6features](https://github.com/lukehoban/es6features) - 介绍了es6的新特性
-
+* [mobileTech](https://github.com/jtyjty99999/mobileTech) - 收集移动端开发所需要的一些资源与小技巧
 
 ## algorithm
 
