@@ -37,6 +37,7 @@ awesome-stars
 * [countries](https://github.com/mledoze/countries) - 全球国家数据
 * [clearPHP](https://github.com/dseguy/clearPHP) - 编写清晰PHP代码的参考
 * [underscore-php](https://github.com/Anahkiasen/underscore-php)
+* [madison](https://github.com/opengovfoundation/madison) - 基于Laravel框架实现的文档协同编辑程序
 
 <hr >
 
@@ -44,6 +45,13 @@ awesome-stars
 
 ## Javascript
 
+
+* [javascript](https://github.com/airbnb/javascript) - js风格指南
+* [intense-images](https://github.com/tholman/intense-images) - 全屏看图片,[看例子不错啊](http://tholman.com/intense-images/)
+* [swipebox](https://github.com/brutaldesign/swipebox) - 一个图片集展示库
+* [holder](https://github.com/imsky/holder) - 客户端生成占位图片库
+* [dummyimage](http://dummyimage.com/) - 在线生成占位图片库
+* [cropper](https://github.com/fengyuanchen/cropper) - 图片剪裁插件
 * [perfmap](https://github.com/zeman/perfmap) - 前端新能热力图,嵌入页面能够展示各个部分的性能相关信息
 * [ionic](https://github.com/driftyco/ionic) - 牛逼的HTML5移动应用框架,结合了AngularJS哦，各个方面都比较系统
 * [jquery-pjax](https://github.com/defunkt/jquery-pjax) - 不用说github现在就用这个,无
@@ -52,18 +60,17 @@ awesome-stars
 * [cal-heatmap](https://github.com/kamisama/cal-heatmap) - 还记得github个人主页那个点点的图吗
 * [amazeui](https://github.com/allmobilize/amazeui) - 号称中国首个开源 HTML5 跨屏前端框架
 * [touchjs](https://github.com/Clouda-team/touchjs) - 模拟各种手势的,百度出品
-* [intense-images](https://github.com/tholman/intense-images) - 全屏看图片,[看例子不错啊](http://tholman.com/intense-images/)
 * [async](https://github.com/caolan/async) - 异步异步异步,node和broser通吃
 * [keyboardJS](https://github.com/RobertWHurst/KeyboardJS) - 一个封装键盘事件的库
-* [WeixinApi](https://github.com/zxlie/WeixinApi) - 对微信浏览器中的各个事件的封装,微信开发必备
+* [WeixinApi](https://github.com/zxlie/WeixinApi) - 对微信浏览器中的各个事件的封装,微信开发必备（新版本微信不可用）
+* [微信JS-SDK说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html) - 全新的微信事件调用方式
 * [app](https://github.com/kikinteractive/app) - 瞬间建立一个手机web应用
 * [string.js](https://github.com/jprichardson/string.js) - 操作字符串的扩展库
 * [Pro](https://github.com/AlloyTeam/Pro) - 腾讯移动Web前端框架
 * [sco.js](https://github.com/terebentina/sco.js) - bootstrap的一个扩展 - 让bootstrap更加好用
 * [hammer.js](https://github.com/hammerjs/hammer.js) - 多点触控
 * [iOS-Overlay](https://github.com/taitems/iOS-Overlay) - IOS样式的加载,不过作者不怎更新了
-* [jquery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 这个很牛
-* [swipebox](https://github.com/brutaldesign/swipebox) - 一个图片集展示库
+* [jquery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 菜单展示库
 * [intro.js](https://github.com/usablica/intro.js) - 新手介绍库
 * [moment](https://github.com/moment/moment) - 处理时间的库
 * [store.js](https://github.com/marcuswestin/store.js) - 本地存储库,有兼容性
@@ -75,8 +82,6 @@ awesome-stars
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - 遵循google的material design guideline的bootstrap样式
 * [focusable](https://github.com/zzarcon/focusable) - 使页面某部分照射在聚光灯下
 * [handsontable](https://github.com/handsontable/handsontable) - 像编辑Excel表格一样编辑页面表格
-* [holder](https://github.com/imsky/holder) - 在客户端生成占位图片的库
-* [cropper](https://github.com/fengyuanchen/cropper) - 图片剪裁插件
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - 用于实现整页效果，做产品介绍页不错
 * [x-editable](https://github.com/vitalets/x-editable) - 实现页面元素可编辑
 * [sortable](https://github.com/RubaXa/Sortable) - 实现页面元素可拖拽(no jquery)
@@ -84,7 +89,12 @@ awesome-stars
 * [emojify.js](https://github.com/hassankhan/emojify.js) - 表情插件
 * [snabbt.js](https://github.com/daniel-lundin/snabbt.js) -  js和css实现的动画库
 * [TheaterJS](https://github.com/Zhouzi/TheaterJS) - 在网页模拟打字效果
-
+* [payform](https://github.com/jondavidjohn/payform) - 银行卡、信用卡叫校验组件
+* [tmodjs](https://github.com/aui/tmodjs) - 前端模板外置解决方案
+* [storage](https://github.com/luics/storage) - 跨终端跨域的存储方案
+* [dragula](https://github.com/bevacqua/dragula) - 支持ie7+的 drag & drop 库
+* [jquery-textcomplete](https://github.com/yuku-t/jquery-textcomplete) - 文本框自动补全库
+* [zTree](https://github.com/zTree/zTree_v3) - 基于jQuery的树插件
 
 ## AngularJS
 
@@ -96,6 +106,9 @@ awesome-stars
 * [angular-strap](https://github.com/mgcrea/angular-strap) - 对bootstrap进行了angular指令封装,嗯！可以方便的使用angularJS和bootstrap咯
 * [ng-nice](https://github.com/angular-cn/ng-nice) - 中国人学习Angular的地方,这下妈妈再也不用担心我的英语不过关了
 * [mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) - angular+bootstrap3实现的手机端UI
+* [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
+* [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide) - by toddmotto
+
 
 ## css
 
@@ -112,11 +125,12 @@ awesome-stars
 * [jekyllthemes](https://github.com/mattvh/jekyllthemes) - 收集了一些jekyll的模板
 * [ratchet](https://github.com/twbs/ratchet) - 使用简洁的HTML、css和js组件构建手机应用
 * [bootstrap-switch](https://github.com/nostalgiaz/bootstrap-switch) - 基于bootstrap实现的滑块
+* [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Bootstrap模板
+* [tips](https://github.com/jh3y/tips) - 纯css实现的tooltip
+* [bootstrap-ie7](https://github.com/coliff/bootstrap-ie7) - bootstrap 3 兼容ie7
 
 
 ## NodeJS
-
-> 罪过，我把它从javascript那独立出来了，主要是太多啦。。
 
 * [sails](https://github.com/balderdashy/sails) - 实时MVC的nodejs框架,这是个框架
 * [update-notifier](https://github.com/yeoman/update-notifier) - 开发的node cli版本更新提示工具
@@ -148,7 +162,7 @@ awesome-stars
 * [php-the-right-way](http://wulijun.github.io/php-the-right-way) - php-the-right-way中文版
 * [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - js实现各种的算法
 * [es6features](https://github.com/lukehoban/es6features) - 介绍了es6的新特性
-
+* [mobileTech](https://github.com/jtyjty99999/mobileTech) - 收集移动端开发所需要的一些资源与小技巧
 
 ## algorithm
 
@@ -161,3 +175,4 @@ awesome-stars
 
 * [understanding-csrf](https://github.com/pillarjs/understanding-csrf)
 * [nginx-conf](https://github.com/lebinh/nginx-conf)
+* [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js)
