@@ -45,7 +45,6 @@ awesome-stars
 
 ## Javascript
 
-
 * [javascript](https://github.com/airbnb/javascript) - js风格指南
 * [intense-images](https://github.com/tholman/intense-images) - 全屏看图片,[看例子不错啊](http://tholman.com/intense-images/)
 * [swipebox](https://github.com/brutaldesign/swipebox) - 一个图片集展示库
@@ -95,6 +94,7 @@ awesome-stars
 * [dragula](https://github.com/bevacqua/dragula) - 支持ie7+的 drag & drop 库
 * [jquery-textcomplete](https://github.com/yuku-t/jquery-textcomplete) - 文本框自动补全库
 * [zTree](https://github.com/zTree/zTree_v3) - 基于jQuery的树插件
+* [selectize.js](https://github.com/brianreavis/selectize.js) - 基于jQuery并集成bootstrap2, 3 等主题的混合文本自动完成、标签等功能的插件「相关[select2](https://github.com/select2/select2), [chosen](https://github.com/harvesthq/chosen)」
 
 ## AngularJS
 
