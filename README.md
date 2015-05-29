@@ -163,6 +163,7 @@ awesome-stars
 * [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - js实现各种的算法
 * [es6features](https://github.com/lukehoban/es6features) - 介绍了es6的新特性
 * [mobileTech](https://github.com/jtyjty99999/mobileTech) - 收集移动端开发所需要的一些资源与小技巧
+* [mobileHack](https://github.com/RubyLouvre/mobileHack) - 司徒正美总结的移动端的坑
 
 ## algorithm
 
