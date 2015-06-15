@@ -96,6 +96,7 @@ awesome-stars
 * [zTree](https://github.com/zTree/zTree_v3) - 基于jQuery的树插件
 * [selectize.js](https://github.com/brianreavis/selectize.js) - 基于jQuery并集成bootstrap2, 3 等主题的混合文本自动完成、标签等功能的插件「相关[select2](https://github.com/select2/select2), [chosen](https://github.com/harvesthq/chosen)」
 * [Ladda](https://github.com/hakimel/Ladda) - 按钮加载内建加载指示器「支持到ie9以上」[demo](http://lab.hakim.se/ladda/)
+* [zoom.js](https://github.com/fat/zoom.js) - 一款基于jQuery的图片缩放插件
 
 ## AngularJS
 
