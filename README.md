@@ -131,6 +131,11 @@ awesome-stars
 * [tips](https://github.com/jh3y/tips) - 纯css实现的tooltip
 * [bootstrap-ie7](https://github.com/coliff/bootstrap-ie7) - bootstrap 3 兼容ie7
 
+<hr>
+
+> works on the latest browsers
+
+* [hint.css](https://github.com/chinchang/hint.css) - 纯粹css实现的tooltip
 
 ## NodeJS
 
