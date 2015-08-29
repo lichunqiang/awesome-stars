@@ -10,6 +10,7 @@ awesome-stars
     - [NodeJS](#nodejs)
     - [css](#css)
     - [Android](#android)
+    - [Python](#python)
 - [其他](#other-awesome-lists)
 
 ## PHP
@@ -161,6 +162,10 @@ awesome-stars
 * [QuickNews](https://github.com/tigerguixh/QuickNews) - 新闻类的开源app,模仿的是网易新闻客户端
 * [ZhihuPaper](https://github.com/cundong/ZhihuPaper) - 知乎日志客户端 
 * [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) 另外的一个知乎客户端
+
+## Python
+
+* [grab](https://github.com/lorien/grab) - 一个爬虫框架
 
 
 ## other-awesome-lists
