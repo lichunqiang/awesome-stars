@@ -100,6 +100,7 @@ awesome-stars
 * [zoom.js](https://github.com/fat/zoom.js) - 一款基于jQuery的图片缩放插件
 * [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - 文本转UML图片库
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - 一款基于jQuery的图册查看库
+* [type.js](https://github.com/mattboldt/typed.js)- 基于jQuery模仿打字效果
 
 ## AngularJS
 
