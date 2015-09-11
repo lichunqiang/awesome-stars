@@ -39,6 +39,7 @@ awesome-stars
 * [clearPHP](https://github.com/dseguy/clearPHP) - 编写清晰PHP代码的参考
 * [underscore-php](https://github.com/Anahkiasen/underscore-php)
 * [madison](https://github.com/opengovfoundation/madison) - 基于Laravel框架实现的文档协同编辑程序
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一款爬虫库,可以解析dom
 
 <hr >
 
