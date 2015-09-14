@@ -103,6 +103,7 @@ awesome-stars
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - 一款基于jQuery的图册查看库
 * [type.js](https://github.com/mattboldt/typed.js)- 基于jQuery模仿打字效果
 * [zxcvbn](https://github.com/dropbox/zxcvbn) - 密码强度验证库
+* [InlineAttachment](https://github.com/Rovak/InlineAttachment) - 让文本域支持嵌入和上传图片(只支持chrome)
 
 ## AngularJS
 
