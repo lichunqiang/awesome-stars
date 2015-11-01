@@ -104,6 +104,7 @@ awesome-stars
 * [type.js](https://github.com/mattboldt/typed.js)- 基于jQuery模仿打字效果
 * [zxcvbn](https://github.com/dropbox/zxcvbn) - 密码强度验证库
 * [InlineAttachment](https://github.com/Rovak/InlineAttachment) - 让文本域支持嵌入和上传图片(只支持chrome)
+* [dropify](https://github.com/JeremyFagis/dropify) - 上传图片输入框美化
 
 ## AngularJS
 
@@ -164,7 +165,7 @@ awesome-stars
 ## Android
 
 * [QuickNews](https://github.com/tigerguixh/QuickNews) - 新闻类的开源app,模仿的是网易新闻客户端
-* [ZhihuPaper](https://github.com/cundong/ZhihuPaper) - 知乎日志客户端 
+* [ZhihuPaper](https://github.com/cundong/ZhihuPaper) - 知乎日志客户端
 * [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) 另外的一个知乎客户端
 
 ## Python
@@ -197,5 +198,5 @@ awesome-stars
 * [understanding-csrf](https://github.com/pillarjs/understanding-csrf)
 * [nginx-conf](https://github.com/lebinh/nginx-conf)
 * [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js)
-* [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic/blob/master/README-zh.md) 
+* [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic/blob/master/README-zh.md)
 * [pattern-guidance](https://github.com/xujiajun/pattern-guidance) - 设计模式指南(PHP代码实现)
