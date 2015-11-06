@@ -105,6 +105,8 @@ awesome-stars
 * [zxcvbn](https://github.com/dropbox/zxcvbn) - 密码强度验证库
 * [InlineAttachment](https://github.com/Rovak/InlineAttachment) - 让文本域支持嵌入和上传图片(只支持chrome)
 * [dropify](https://github.com/JeremyFagis/dropify) - 上传图片输入框美化
+* [money.js](https://github.com/openexchangerates/money.js/) - 货比转换,使用Node和Web
+* [accounting.js](https://github.com/openexchangerates/accounting.js) - 数字、金额等解析/格式化
 
 ## AngularJS
 
