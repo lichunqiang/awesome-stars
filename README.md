@@ -107,6 +107,7 @@ awesome-stars
 * [dropify](https://github.com/JeremyFagis/dropify) - 上传图片输入框美化
 * [money.js](https://github.com/openexchangerates/money.js/) - 货比转换,使用Node和Web
 * [accounting.js](https://github.com/openexchangerates/accounting.js) - 数字、金额等解析/格式化
+* [Split.js](https://github.com/nathancahill/Split.js) - 区域分割，支持拖动变更区域大小
 
 ## AngularJS
 
@@ -140,6 +141,7 @@ awesome-stars
 * [PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Bootstrap模板
 * [tips](https://github.com/jh3y/tips) - 纯css实现的tooltip
 * [bootstrap-ie7](https://github.com/coliff/bootstrap-ie7) - bootstrap 3 兼容ie7
+* [awesome-bootstrap-checkbox](https://github.com/flatlogic/awesome-bootstrap-checkbox) - 基于fontawesome纯css实现的checkbox&radio美化样式库
 
 <hr>
 
