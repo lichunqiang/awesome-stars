@@ -41,6 +41,7 @@ awesome-stars
 * [madison](https://github.com/opengovfoundation/madison) - 基于Laravel框架实现的文档协同编辑程序
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一款爬虫库,可以解析dom
 * [FileNamingResolver](https://github.com/bocharsky-bw/FileNamingResolver) - 提供几种不同的策略来生成文件名
+* [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 简化正则生成规则操作库
 
 <hr >
 
