@@ -110,6 +110,9 @@ awesome-stars
 * [money.js](https://github.com/openexchangerates/money.js/) - 货比转换,使用Node和Web
 * [accounting.js](https://github.com/openexchangerates/accounting.js) - 数字、金额等解析/格式化
 * [Split.js](https://github.com/nathancahill/Split.js) - 区域分割，支持拖动变更区域大小
+* [rome](https://github.com/bevacqua/rome) - crazy and powerful datepicker! 不依赖jQuery的日期选择插件
+* [horsey](https://github.com/bevacqua/horsey) - 强大易用的autocomple库
+* [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - javascript模糊搜索
 
 ## AngularJS
 
