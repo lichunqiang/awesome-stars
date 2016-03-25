@@ -42,6 +42,7 @@ awesome-stars
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一款爬虫库,可以解析dom
 * [FileNamingResolver](https://github.com/bocharsky-bw/FileNamingResolver) - 提供几种不同的策略来生成文件名
 * [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 简化正则生成规则操作库
+* [wordcolor.php](https://github.com/lichunqiang/wordcolor.php) - 根据文字来生成RGB，相同的文字生成相同的RGB配色
 
 <hr >
 
