@@ -46,6 +46,12 @@ awesome-stars
 
 <hr >
 
+原生应用
+
+* [php-cp](https://github.com/swoole/php-cp) - mysql 和 redis 的连接池实现
+
+<hr >
+
 * [esoTalk](https://github.com/esotalk/esoTalk) - 及简单的论坛
 
 ## Javascript
