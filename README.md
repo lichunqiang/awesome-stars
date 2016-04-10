@@ -120,7 +120,8 @@ awesome-stars
 * [rome](https://github.com/bevacqua/rome) - crazy and powerful datepicker! 不依赖jQuery的日期选择插件
 * [horsey](https://github.com/bevacqua/horsey) - 强大易用的autocomple库
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - javascript模糊搜索
-* [Hilo](https://github.com/hiloteam/Hilo) - 阿里退出的H5游戏引擎
+* [Hilo](https://github.com/hiloteam/Hilo) - 阿里推出的H5游戏引擎
+* [select](https://github.com/HubSpot/select) - 让定制原生select样式变为可能
 
 ## AngularJS
 
