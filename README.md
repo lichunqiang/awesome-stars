@@ -124,6 +124,7 @@ awesome-stars
 * [select](https://github.com/HubSpot/select) - 让定制原生select样式变为可能
 * [Modaal](https://github.com/humaan/Modaal) - Yet anthor modal, 弹窗组件，支持图片浏览等功能
 * [biu](https://github.com/egoist/biu) - ie9+提示组件 [demo](http://biu.js.org/)
+* [flatpickr](https://github.com/chmln/flatpickr) - 轻巧多主题的时间选择插件，支持时间选择
 
 ## AngularJS
 
