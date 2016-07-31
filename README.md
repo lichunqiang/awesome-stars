@@ -45,6 +45,7 @@ awesome-stars
 * [wordcolor.php](https://github.com/lichunqiang/wordcolor.php) - 根据文字来生成RGB，相同的文字生成相同的RGB配色
 * [Pimple](https://github.com/silexphp/Pimple) - 一个简单好用的依赖注入容器实现
 * [flexihash](https://github.com/pda/flexihash) - 一致性hash算法实现
+* [spout](https://github.com/box/spout) - 比PHPExcel更好用的导出与写入工具, 需要PHP大于5.4
 
 <hr >
 
