@@ -46,6 +46,7 @@ awesome-stars
 * [Pimple](https://github.com/silexphp/Pimple) - 一个简单好用的依赖注入容器实现
 * [flexihash](https://github.com/pda/flexihash) - 一致性hash算法实现
 * [spout](https://github.com/box/spout) - 比PHPExcel更好用的导出与写入工具, 需要PHP大于5.4
+* [google2fa](https://github.com/antonioribeiro/google2fa) - Google两步验证PHP实现
 
 <hr >
 
