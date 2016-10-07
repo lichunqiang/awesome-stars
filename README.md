@@ -55,6 +55,10 @@ awesome-stars
 
 * [php-cp](https://github.com/swoole/php-cp) - mysql 和 redis 的连接池实现
 
+<hr>
+
+* [swoole_study](https://github.com/szyhf/swoole_study) - swoole学习博客
+
 <hr >
 
 * [esoTalk](https://github.com/esotalk/esoTalk) - 及简单的论坛
@@ -228,6 +232,7 @@ awesome-stars
 * [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js)
 * [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic/blob/master/README-zh.md)
 * [pattern-guidance](https://github.com/xujiajun/pattern-guidance) - 设计模式指南(PHP代码实现)
+* [google-interview-university](https://github.com/jwasham/google-interview-university) - 成为google工程师之路
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lichunqiang/awesome-stars/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
