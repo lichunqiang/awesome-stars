@@ -135,6 +135,7 @@ awesome-stars
 * [biu](https://github.com/egoist/biu) - ie9+提示组件 [demo](http://biu.js.org/)
 * [flatpickr](https://github.com/chmln/flatpickr) - 轻巧多主题的时间选择插件，支持时间选择
 * [in-view](https://github.com/camwiegert/in-view) - 可用来判断DOM是否出现在可视的区域
+* [shave](https://github.com/dollarshaveclub/shave) - 通过设定最高度控制文本域
 
 ## AngularJS
 
