@@ -136,6 +136,7 @@ awesome-stars
 * [flatpickr](https://github.com/chmln/flatpickr) - 轻巧多主题的时间选择插件，支持时间选择
 * [in-view](https://github.com/camwiegert/in-view) - 可用来判断DOM是否出现在可视的区域
 * [shave](https://github.com/dollarshaveclub/shave) - 通过设定最高度控制文本域
+* [intercooler-js](https://github.com/LeadDyno/intercooler-js) - 通过html attribute 标记锚点的方式发送Ajax请求
 
 ## AngularJS
 
